@@ -1,25 +1,49 @@
 # 🏥 Healthcare Patient Readmission Analysis
 
-An end-to-end **Data Science and Business Intelligence** project focused on analyzing patient readmission data. This project implements a full pipeline—from **data ingestion** and **analysis** to **predictive modeling** and **interactive visualization**—to deliver actionable insights into healthcare operations.
+An end-to-end **Data Science and Business Intelligence** project focused on analyzing patient readmission data.  
+This project implements a full pipeline—from data ingestion and analysis to predictive modeling and interactive visualization—to deliver actionable insights into healthcare operations.
 
 ---
 
-## 🚀 Project Overview
+## 🚀 Key Features
 
-The objective is to analyze a healthcare dataset and identify factors contributing to **patient readmissions within a 30-day window**. The project concludes with a trained **XGBoost-based machine learning model** that predicts readmission risk and a **Streamlit web app** to demonstrate real-time predictions.
+- **Interactive Dashboard**: A comprehensive 4-page Power BI dashboard for exploring patient demographics, clinical factors, and model performance.  
+- **Live Prediction App**: A user-friendly web application built with Streamlit that uses a trained XGBoost model to predict patient readmission risk in real-time.  
+- **Data-Driven Analysis**: Based on a detailed analysis of a real-world healthcare dataset in a Jupyter Notebook.  
+- **End-to-End Workflow**: Demonstrates the full data science lifecycle from ingestion to deployment.
 
 ---
 
-## 🛠️ Technologies Used
+## 🔗 Live Demos & Screenshots
 
-| Area                | Tools & Libraries                                                                 |
-|---------------------|-----------------------------------------------------------------------------------|
-| **Database**        | SQL Server Management Studio (SSMS)                                               |
-| **Data Analysis**   | Python (Pandas, NumPy, Seaborn, Matplotlib)                                       |
-| **Modeling**        | Scikit-learn, XGBoost, Hyperparameter Tuning                                      |
-| **Visualization**   | Power BI                                                                          |
-| **Web App**         | Streamlit                                                                         |
-| **Version Control** | Git & GitHub                                                                       |
+- 🔗 **Live Streamlit App**: [Click to open](https://healthcare-readmission-analysis-rmuajo4ghd9n8weauxki7q.streamlit.app/)  
+- 🖼️ **Web App UI Preview**:  
+  ![Web App](./1.png)
+
+- 🖼️ **Dashboard - Overview**  
+  ![Overview](./2.jpg)
+
+- 🖼️ **Dashboard - Readmission Drivers**  
+  ![Drivers](./3.jpg)
+
+- 🖼️ **Dashboard - Demographics**  
+  ![Demographics](./4.jpg)
+
+- 🖼️ **Dashboard - Model Insights**  
+  ![Model](./5.jpg)
+
+---
+
+## 🛠️ Tech Stack
+
+| Area             | Tools & Libraries                                                   |
+|------------------|---------------------------------------------------------------------|
+| **Database**      | SQL Server Management Studio (SSMS)                                 |
+| **Data Analysis** | Python (Pandas, NumPy, Seaborn, Matplotlib)                         |
+| **Modeling**      | Scikit-learn, XGBoost, Hyperparameter Tuning                        |
+| **Visualization** | Power BI                                                            |
+| **Web App**       | Streamlit                                                           |
+| **Version Control**| Git & GitHub                                                       |
 
 ---
 
@@ -34,6 +58,7 @@ Healthcare-Readmission-Analysis/
 │   └── readmission_dashboard.pbix
 ├── dataset/           # Raw and processed CSV datasets
 ├── model/             # Final trained model
+│   └── readmission_model_xgboost.pkl
 ├── notebook/          # Jupyter Notebook (EDA, modeling)
 │   └── analysis_and_modeling.ipynb
 ├── sql_query/         # SQL scripts for DB setup
@@ -44,77 +69,77 @@ Healthcare-Readmission-Analysis/
 
 ---
 
-## 🧰 Getting Started
+## ⚙️ Setup and Installation
 
-### 1️⃣ Database Setup
-- Use SSMS to create tables using the SQL scripts in `sql_query/`.
-- Import CSV files from the `dataset/` directory into your SQL tables.
+### 🔧 Clone the Repository
 
-### 2️⃣ Python Environment
-- Make sure Python is installed on your system.
-- Create and activate a virtual environment (optional but recommended).
-- Install required dependencies using:
-  ```bash
-  pip install -r requirements.txt
-  ```
+```bash
+git clone https://github.com/your-username/Healthcare-Readmission-Analysis.git
+cd Healthcare-Readmission-Analysis
+```
 
-### 3️⃣ Run Streamlit App
-- Navigate to the `app/` directory and run:
-  ```bash
-  streamlit run app.py
-  ```
-- The app will open in your web browser, allowing you to interact with the model.
+### 🧪 Create a Virtual Environment
+
+```bash
+python -m venv venv
+source venv/bin/activate  # On Windows, use `venv\Scripts\activate`
+```
+
+### 📦 Install the Requirements
+
+**requirements.txt**:
+
+```
+streamlit
+joblib
+numpy
+pandas
+scikit-learn
+xgboost
+```
+
+**Install using pip**:
+
+```bash
+pip install -r requirements.txt
+```
+
+### ▶️ Run the Streamlit App
+
+```bash
+cd app
+streamlit run app.py
+```
 
 ---
 
-## 🧠 Model Details
+## 🔬 Methodology
 
-The predictive model is a **tuned XGBoostClassifier** trained to estimate the risk of patient readmission. Key features used:
-
-- **Demographics**: Age, Gender, Ethnicity  
-- **Admission Details**: Length of Stay, Admission Type  
-- **Discharge Information**: Discharge Disposition (e.g., home, rehab, nursing facility)
-
-### 📈 Model Evaluation Metrics:
-- **Accuracy**
-- **Precision**
-- **Recall**
-- **F1-Score**
-
-All performance metrics are displayed in the **Power BI dashboard** and used for interpreting the model’s effectiveness.
-
----
-
-## 📊 Power BI Dashboard
-
-An interactive Power BI dashboard has been created to provide business insights. It includes:
-- Readmission KPIs
-- Filters by patient demographics and discharge types
-- Visualizations for high-risk segments
-- Model performance metrics and decision-support charts
+1. **Data Ingestion & Cleaning**: Loaded and preprocessed CSV data in Jupyter Notebook.
+2. **Feature Engineering**: Created new variables like `is_readmitted`, `age_diagnoses_interaction`.
+3. **Model Training**: Used XGBoost Classifier with hyperparameter tuning.
+4. **Deployment**: Model saved with `joblib` and integrated in Streamlit app.
 
 ---
 
 ## 👨‍💻 About Me
 
-Hi! I’m **Harsh Bandal**, a final-year Computer Engineering student at **Sinhgad College of Engineering, Pune**, with a strong passion for **Data Analytics**, **Machine Learning**, and building **real-world AI applications**.
+Hi! I'm **Harsh Bandal**, a passionate data science student with a strong interest in machine learning, data visualization, and building end-to-end data products.
 
-I love exploring the full lifecycle of data science projects—from raw datasets to beautiful dashboards and deployable apps. My mission is to bridge the gap between raw data and practical decision-making tools.
+📌 _“Turning data into decisions, and models into impact.”_
 
-- 🔗 **GitHub**: [harry16102003](https://github.com/harry16102003)  
-- 🔗 **LinkedIn**: [Harsh Bandal](https://www.linkedin.com/in/harsh-bandal-3240912b7/)  
-- 📫 **Email**: harshbandal.scoe.comp@gmail.com  
-
-> _“Turning data into decisions, and models into impact.”_
+- **GitHub**: [harry16102003](https://github.com/harry16102003)  
+- **LinkedIn**: [Harsh Bandal](https://www.linkedin.com/in/harsh-bandal-3240912b7/)  
+- **Email**: harshbandal.scoe.comp@gmail.com  
 
 ---
 
 ## ⭐ Project Goal
 
-To demonstrate a complete end-to-end data science workflow using industry-standard tools and technologies, while addressing a real-world problem in the healthcare domain.
+To demonstrate a complete **end-to-end data science workflow** using industry-standard tools and technologies, while addressing a real-world problem in the healthcare domain.
 
 ---
 
-## 📌 License
+## 📜 License
 
-This project is licensed under the **MIT License** — feel free to fork, use, and adapt it for learning, portfolios, or similar problem domains.
+This project is licensed under the **MIT License** - see the LICENSE file for details.

@@ -1,0 +1,1 @@
+CREATE DATABASE Healthcare_Analysis;

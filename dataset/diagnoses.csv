@@ -1,0 +1,1011 @@
+diagnosis_id,admission_id,ICD9_code,description
+1,1,518.81,Acute respiratory failure
+2,1,428.0,Congestive heart failure
+3,1,584.9,Acute kidney failure
+4,2,244.9,Unspecified hypothyroidism
+5,2,584.9,Acute kidney failure
+6,2,530.81,Esophageal reflux
+7,3,272.4,Other and unspecified hyperlipidemia
+8,3,414.01,Coronary atherosclerosis
+9,3,428.0,Congestive heart failure
+10,4,272.4,Other and unspecified hyperlipidemia
+11,5,530.81,Esophageal reflux
+12,6,414.01,Coronary atherosclerosis
+13,6,272.4,Other and unspecified hyperlipidemia
+14,7,584.9,Acute kidney failure
+15,7,401.9,Unspecified essential hypertension
+16,7,272.4,Other and unspecified hyperlipidemia
+17,8,530.81,Esophageal reflux
+18,9,244.9,Unspecified hypothyroidism
+19,9,250.00,Diabetes mellitus without mention of complication
+20,10,530.81,Esophageal reflux
+21,11,530.81,Esophageal reflux
+22,12,518.81,Acute respiratory failure
+23,12,518.81,Acute respiratory failure
+24,13,428.0,Congestive heart failure
+25,14,584.9,Acute kidney failure
+26,14,518.81,Acute respiratory failure
+27,15,244.9,Unspecified hypothyroidism
+28,15,530.81,Esophageal reflux
+29,16,250.00,Diabetes mellitus without mention of complication
+30,16,518.81,Acute respiratory failure
+31,16,401.9,Unspecified essential hypertension
+32,17,272.4,Other and unspecified hyperlipidemia
+33,17,414.01,Coronary atherosclerosis
+34,17,530.81,Esophageal reflux
+35,18,530.81,Esophageal reflux
+36,18,244.9,Unspecified hypothyroidism
+37,19,250.00,Diabetes mellitus without mention of complication
+38,19,272.4,Other and unspecified hyperlipidemia
+39,20,250.00,Diabetes mellitus without mention of complication
+40,20,401.9,Unspecified essential hypertension
+41,20,486,Pneumonia
+42,21,272.4,Other and unspecified hyperlipidemia
+43,21,272.4,Other and unspecified hyperlipidemia
+44,21,272.4,Other and unspecified hyperlipidemia
+45,22,244.9,Unspecified hypothyroidism
+46,22,518.81,Acute respiratory failure
+47,22,272.4,Other and unspecified hyperlipidemia
+48,23,428.0,Congestive heart failure
+49,23,401.9,Unspecified essential hypertension
+50,24,584.9,Acute kidney failure
+51,25,414.01,Coronary atherosclerosis
+52,25,272.4,Other and unspecified hyperlipidemia
+53,25,428.0,Congestive heart failure
+54,26,584.9,Acute kidney failure
+55,27,244.9,Unspecified hypothyroidism
+56,28,530.81,Esophageal reflux
+57,28,272.4,Other and unspecified hyperlipidemia
+58,28,272.4,Other and unspecified hyperlipidemia
+59,29,486,Pneumonia
+60,29,584.9,Acute kidney failure
+61,29,428.0,Congestive heart failure
+62,30,244.9,Unspecified hypothyroidism
+63,30,272.4,Other and unspecified hyperlipidemia
+64,31,428.0,Congestive heart failure
+65,31,401.9,Unspecified essential hypertension
+66,32,244.9,Unspecified hypothyroidism
+67,32,584.9,Acute kidney failure
+68,32,272.4,Other and unspecified hyperlipidemia
+69,33,428.0,Congestive heart failure
+70,33,244.9,Unspecified hypothyroidism
+71,34,244.9,Unspecified hypothyroidism
+72,34,244.9,Unspecified hypothyroidism
+73,34,250.00,Diabetes mellitus without mention of complication
+74,35,518.81,Acute respiratory failure
+75,35,518.81,Acute respiratory failure
+76,36,530.81,Esophageal reflux
+77,37,486,Pneumonia
+78,38,414.01,Coronary atherosclerosis
+79,38,584.9,Acute kidney failure
+80,38,401.9,Unspecified essential hypertension
+81,39,414.01,Coronary atherosclerosis
+82,39,272.4,Other and unspecified hyperlipidemia
+83,39,584.9,Acute kidney failure
+84,40,584.9,Acute kidney failure
+85,41,272.4,Other and unspecified hyperlipidemia
+86,42,530.81,Esophageal reflux
+87,43,250.00,Diabetes mellitus without mention of complication
+88,43,414.01,Coronary atherosclerosis
+89,44,272.4,Other and unspecified hyperlipidemia
+90,45,272.4,Other and unspecified hyperlipidemia
+91,45,401.9,Unspecified essential hypertension
+92,46,428.0,Congestive heart failure
+93,46,530.81,Esophageal reflux
+94,46,428.0,Congestive heart failure
+95,47,401.9,Unspecified essential hypertension
+96,48,244.9,Unspecified hypothyroidism
+97,48,414.01,Coronary atherosclerosis
+98,49,401.9,Unspecified essential hypertension
+99,49,414.01,Coronary atherosclerosis
+100,50,584.9,Acute kidney failure
+101,50,486,Pneumonia
+102,51,530.81,Esophageal reflux
+103,52,518.81,Acute respiratory failure
+104,52,486,Pneumonia
+105,52,486,Pneumonia
+106,53,584.9,Acute kidney failure
+107,54,272.4,Other and unspecified hyperlipidemia
+108,54,584.9,Acute kidney failure
+109,55,401.9,Unspecified essential hypertension
+110,55,428.0,Congestive heart failure
+111,56,250.00,Diabetes mellitus without mention of complication
+112,56,244.9,Unspecified hypothyroidism
+113,57,428.0,Congestive heart failure
+114,57,428.0,Congestive heart failure
+115,58,414.01,Coronary atherosclerosis
+116,58,530.81,Esophageal reflux
+117,58,428.0,Congestive heart failure
+118,59,518.81,Acute respiratory failure
+119,60,518.81,Acute respiratory failure
+120,61,486,Pneumonia
+121,61,486,Pneumonia
+122,61,518.81,Acute respiratory failure
+123,62,428.0,Congestive heart failure
+124,63,428.0,Congestive heart failure
+125,63,428.0,Congestive heart failure
+126,63,272.4,Other and unspecified hyperlipidemia
+127,64,250.00,Diabetes mellitus without mention of complication
+128,64,250.00,Diabetes mellitus without mention of complication
+129,65,414.01,Coronary atherosclerosis
+130,65,428.0,Congestive heart failure
+131,65,414.01,Coronary atherosclerosis
+132,66,428.0,Congestive heart failure
+133,66,401.9,Unspecified essential hypertension
+134,66,486,Pneumonia
+135,67,530.81,Esophageal reflux
+136,67,518.81,Acute respiratory failure
+137,68,401.9,Unspecified essential hypertension
+138,69,530.81,Esophageal reflux
+139,69,250.00,Diabetes mellitus without mention of complication
+140,70,401.9,Unspecified essential hypertension
+141,70,518.81,Acute respiratory failure
+142,71,584.9,Acute kidney failure
+143,71,250.00,Diabetes mellitus without mention of complication
+144,71,414.01,Coronary atherosclerosis
+145,72,250.00,Diabetes mellitus without mention of complication
+146,73,584.9,Acute kidney failure
+147,73,518.81,Acute respiratory failure
+148,74,244.9,Unspecified hypothyroidism
+149,74,272.4,Other and unspecified hyperlipidemia
+150,75,584.9,Acute kidney failure
+151,75,250.00,Diabetes mellitus without mention of complication
+152,75,486,Pneumonia
+153,76,518.81,Acute respiratory failure
+154,76,428.0,Congestive heart failure
+155,77,401.9,Unspecified essential hypertension
+156,77,518.81,Acute respiratory failure
+157,77,428.0,Congestive heart failure
+158,78,530.81,Esophageal reflux
+159,78,584.9,Acute kidney failure
+160,78,428.0,Congestive heart failure
+161,79,530.81,Esophageal reflux
+162,80,401.9,Unspecified essential hypertension
+163,80,486,Pneumonia
+164,80,518.81,Acute respiratory failure
+165,81,272.4,Other and unspecified hyperlipidemia
+166,82,272.4,Other and unspecified hyperlipidemia
+167,83,401.9,Unspecified essential hypertension
+168,83,428.0,Congestive heart failure
+169,84,244.9,Unspecified hypothyroidism
+170,84,401.9,Unspecified essential hypertension
+171,84,530.81,Esophageal reflux
+172,85,414.01,Coronary atherosclerosis
+173,85,250.00,Diabetes mellitus without mention of complication
+174,85,272.4,Other and unspecified hyperlipidemia
+175,86,272.4,Other and unspecified hyperlipidemia
+176,87,244.9,Unspecified hypothyroidism
+177,87,250.00,Diabetes mellitus without mention of complication
+178,87,518.81,Acute respiratory failure
+179,88,244.9,Unspecified hypothyroidism
+180,88,414.01,Coronary atherosclerosis
+181,88,518.81,Acute respiratory failure
+182,89,244.9,Unspecified hypothyroidism
+183,90,530.81,Esophageal reflux
+184,90,401.9,Unspecified essential hypertension
+185,90,518.81,Acute respiratory failure
+186,91,486,Pneumonia
+187,92,518.81,Acute respiratory failure
+188,92,244.9,Unspecified hypothyroidism
+189,92,414.01,Coronary atherosclerosis
+190,93,244.9,Unspecified hypothyroidism
+191,93,584.9,Acute kidney failure
+192,94,401.9,Unspecified essential hypertension
+193,94,401.9,Unspecified essential hypertension
+194,95,428.0,Congestive heart failure
+195,95,401.9,Unspecified essential hypertension
+196,95,428.0,Congestive heart failure
+197,96,518.81,Acute respiratory failure
+198,96,250.00,Diabetes mellitus without mention of complication
+199,97,428.0,Congestive heart failure
+200,97,518.81,Acute respiratory failure
+201,98,272.4,Other and unspecified hyperlipidemia
+202,98,272.4,Other and unspecified hyperlipidemia
+203,98,244.9,Unspecified hypothyroidism
+204,99,584.9,Acute kidney failure
+205,100,428.0,Congestive heart failure
+206,101,244.9,Unspecified hypothyroidism
+207,102,272.4,Other and unspecified hyperlipidemia
+208,102,250.00,Diabetes mellitus without mention of complication
+209,103,250.00,Diabetes mellitus without mention of complication
+210,104,272.4,Other and unspecified hyperlipidemia
+211,105,530.81,Esophageal reflux
+212,105,401.9,Unspecified essential hypertension
+213,105,272.4,Other and unspecified hyperlipidemia
+214,106,530.81,Esophageal reflux
+215,106,530.81,Esophageal reflux
+216,107,530.81,Esophageal reflux
+217,108,272.4,Other and unspecified hyperlipidemia
+218,108,518.81,Acute respiratory failure
+219,108,272.4,Other and unspecified hyperlipidemia
+220,109,530.81,Esophageal reflux
+221,110,414.01,Coronary atherosclerosis
+222,111,414.01,Coronary atherosclerosis
+223,111,272.4,Other and unspecified hyperlipidemia
+224,111,518.81,Acute respiratory failure
+225,112,428.0,Congestive heart failure
+226,113,272.4,Other and unspecified hyperlipidemia
+227,113,486,Pneumonia
+228,114,518.81,Acute respiratory failure
+229,114,428.0,Congestive heart failure
+230,114,401.9,Unspecified essential hypertension
+231,115,250.00,Diabetes mellitus without mention of complication
+232,115,518.81,Acute respiratory failure
+233,116,530.81,Esophageal reflux
+234,116,530.81,Esophageal reflux
+235,116,244.9,Unspecified hypothyroidism
+236,117,401.9,Unspecified essential hypertension
+237,118,401.9,Unspecified essential hypertension
+238,118,584.9,Acute kidney failure
+239,119,401.9,Unspecified essential hypertension
+240,119,428.0,Congestive heart failure
+241,119,401.9,Unspecified essential hypertension
+242,120,250.00,Diabetes mellitus without mention of complication
+243,121,486,Pneumonia
+244,121,530.81,Esophageal reflux
+245,122,244.9,Unspecified hypothyroidism
+246,122,414.01,Coronary atherosclerosis
+247,123,428.0,Congestive heart failure
+248,123,584.9,Acute kidney failure
+249,124,244.9,Unspecified hypothyroidism
+250,124,518.81,Acute respiratory failure
+251,125,428.0,Congestive heart failure
+252,126,272.4,Other and unspecified hyperlipidemia
+253,126,584.9,Acute kidney failure
+254,126,401.9,Unspecified essential hypertension
+255,127,250.00,Diabetes mellitus without mention of complication
+256,127,530.81,Esophageal reflux
+257,128,401.9,Unspecified essential hypertension
+258,128,272.4,Other and unspecified hyperlipidemia
+259,129,244.9,Unspecified hypothyroidism
+260,130,244.9,Unspecified hypothyroidism
+261,130,518.81,Acute respiratory failure
+262,131,244.9,Unspecified hypothyroidism
+263,131,584.9,Acute kidney failure
+264,131,272.4,Other and unspecified hyperlipidemia
+265,132,250.00,Diabetes mellitus without mention of complication
+266,132,244.9,Unspecified hypothyroidism
+267,132,272.4,Other and unspecified hyperlipidemia
+268,133,486,Pneumonia
+269,134,530.81,Esophageal reflux
+270,135,272.4,Other and unspecified hyperlipidemia
+271,135,401.9,Unspecified essential hypertension
+272,135,530.81,Esophageal reflux
+273,136,272.4,Other and unspecified hyperlipidemia
+274,136,486,Pneumonia
+275,136,486,Pneumonia
+276,137,272.4,Other and unspecified hyperlipidemia
+277,137,518.81,Acute respiratory failure
+278,138,584.9,Acute kidney failure
+279,139,428.0,Congestive heart failure
+280,140,272.4,Other and unspecified hyperlipidemia
+281,140,428.0,Congestive heart failure
+282,140,414.01,Coronary atherosclerosis
+283,141,518.81,Acute respiratory failure
+284,141,584.9,Acute kidney failure
+285,142,414.01,Coronary atherosclerosis
+286,142,584.9,Acute kidney failure
+287,143,401.9,Unspecified essential hypertension
+288,143,401.9,Unspecified essential hypertension
+289,144,584.9,Acute kidney failure
+290,144,414.01,Coronary atherosclerosis
+291,144,250.00,Diabetes mellitus without mention of complication
+292,145,414.01,Coronary atherosclerosis
+293,146,244.9,Unspecified hypothyroidism
+294,146,244.9,Unspecified hypothyroidism
+295,147,584.9,Acute kidney failure
+296,147,414.01,Coronary atherosclerosis
+297,148,272.4,Other and unspecified hyperlipidemia
+298,149,244.9,Unspecified hypothyroidism
+299,150,401.9,Unspecified essential hypertension
+300,151,414.01,Coronary atherosclerosis
+301,151,401.9,Unspecified essential hypertension
+302,152,250.00,Diabetes mellitus without mention of complication
+303,152,486,Pneumonia
+304,153,530.81,Esophageal reflux
+305,154,414.01,Coronary atherosclerosis
+306,155,486,Pneumonia
+307,156,250.00,Diabetes mellitus without mention of complication
+308,156,486,Pneumonia
+309,156,486,Pneumonia
+310,157,250.00,Diabetes mellitus without mention of complication
+311,158,244.9,Unspecified hypothyroidism
+312,158,518.81,Acute respiratory failure
+313,158,486,Pneumonia
+314,159,530.81,Esophageal reflux
+315,159,401.9,Unspecified essential hypertension
+316,159,272.4,Other and unspecified hyperlipidemia
+317,160,530.81,Esophageal reflux
+318,160,530.81,Esophageal reflux
+319,160,414.01,Coronary atherosclerosis
+320,161,401.9,Unspecified essential hypertension
+321,162,518.81,Acute respiratory failure
+322,162,428.0,Congestive heart failure
+323,163,486,Pneumonia
+324,163,518.81,Acute respiratory failure
+325,164,486,Pneumonia
+326,164,401.9,Unspecified essential hypertension
+327,165,428.0,Congestive heart failure
+328,165,272.4,Other and unspecified hyperlipidemia
+329,166,401.9,Unspecified essential hypertension
+330,166,244.9,Unspecified hypothyroidism
+331,167,272.4,Other and unspecified hyperlipidemia
+332,167,272.4,Other and unspecified hyperlipidemia
+333,168,250.00,Diabetes mellitus without mention of complication
+334,168,428.0,Congestive heart failure
+335,168,250.00,Diabetes mellitus without mention of complication
+336,169,486,Pneumonia
+337,170,250.00,Diabetes mellitus without mention of complication
+338,171,584.9,Acute kidney failure
+339,171,530.81,Esophageal reflux
+340,172,428.0,Congestive heart failure
+341,172,250.00,Diabetes mellitus without mention of complication
+342,173,414.01,Coronary atherosclerosis
+343,173,428.0,Congestive heart failure
+344,173,272.4,Other and unspecified hyperlipidemia
+345,174,428.0,Congestive heart failure
+346,175,486,Pneumonia
+347,175,244.9,Unspecified hypothyroidism
+348,175,530.81,Esophageal reflux
+349,176,244.9,Unspecified hypothyroidism
+350,176,244.9,Unspecified hypothyroidism
+351,177,244.9,Unspecified hypothyroidism
+352,178,530.81,Esophageal reflux
+353,178,518.81,Acute respiratory failure
+354,178,518.81,Acute respiratory failure
+355,179,414.01,Coronary atherosclerosis
+356,180,250.00,Diabetes mellitus without mention of complication
+357,181,250.00,Diabetes mellitus without mention of complication
+358,181,584.9,Acute kidney failure
+359,182,414.01,Coronary atherosclerosis
+360,183,428.0,Congestive heart failure
+361,183,518.81,Acute respiratory failure
+362,184,250.00,Diabetes mellitus without mention of complication
+363,184,530.81,Esophageal reflux
+364,185,244.9,Unspecified hypothyroidism
+365,185,486,Pneumonia
+366,186,530.81,Esophageal reflux
+367,186,584.9,Acute kidney failure
+368,187,486,Pneumonia
+369,187,272.4,Other and unspecified hyperlipidemia
+370,187,584.9,Acute kidney failure
+371,188,428.0,Congestive heart failure
+372,188,272.4,Other and unspecified hyperlipidemia
+373,189,486,Pneumonia
+374,190,486,Pneumonia
+375,190,401.9,Unspecified essential hypertension
+376,191,428.0,Congestive heart failure
+377,191,428.0,Congestive heart failure
+378,192,428.0,Congestive heart failure
+379,192,584.9,Acute kidney failure
+380,193,486,Pneumonia
+381,193,401.9,Unspecified essential hypertension
+382,193,414.01,Coronary atherosclerosis
+383,194,250.00,Diabetes mellitus without mention of complication
+384,194,244.9,Unspecified hypothyroidism
+385,195,584.9,Acute kidney failure
+386,196,518.81,Acute respiratory failure
+387,196,244.9,Unspecified hypothyroidism
+388,196,530.81,Esophageal reflux
+389,197,414.01,Coronary atherosclerosis
+390,197,518.81,Acute respiratory failure
+391,197,428.0,Congestive heart failure
+392,198,244.9,Unspecified hypothyroidism
+393,198,414.01,Coronary atherosclerosis
+394,199,272.4,Other and unspecified hyperlipidemia
+395,199,244.9,Unspecified hypothyroidism
+396,200,401.9,Unspecified essential hypertension
+397,200,272.4,Other and unspecified hyperlipidemia
+398,200,530.81,Esophageal reflux
+399,201,486,Pneumonia
+400,201,401.9,Unspecified essential hypertension
+401,202,518.81,Acute respiratory failure
+402,202,401.9,Unspecified essential hypertension
+403,202,250.00,Diabetes mellitus without mention of complication
+404,203,486,Pneumonia
+405,204,414.01,Coronary atherosclerosis
+406,204,486,Pneumonia
+407,204,486,Pneumonia
+408,205,584.9,Acute kidney failure
+409,205,584.9,Acute kidney failure
+410,206,414.01,Coronary atherosclerosis
+411,207,428.0,Congestive heart failure
+412,208,272.4,Other and unspecified hyperlipidemia
+413,208,518.81,Acute respiratory failure
+414,208,428.0,Congestive heart failure
+415,209,250.00,Diabetes mellitus without mention of complication
+416,209,250.00,Diabetes mellitus without mention of complication
+417,210,486,Pneumonia
+418,210,414.01,Coronary atherosclerosis
+419,211,584.9,Acute kidney failure
+420,211,486,Pneumonia
+421,211,530.81,Esophageal reflux
+422,212,518.81,Acute respiratory failure
+423,212,428.0,Congestive heart failure
+424,212,530.81,Esophageal reflux
+425,213,414.01,Coronary atherosclerosis
+426,214,486,Pneumonia
+427,214,414.01,Coronary atherosclerosis
+428,215,530.81,Esophageal reflux
+429,215,518.81,Acute respiratory failure
+430,216,250.00,Diabetes mellitus without mention of complication
+431,216,584.9,Acute kidney failure
+432,216,486,Pneumonia
+433,217,244.9,Unspecified hypothyroidism
+434,217,428.0,Congestive heart failure
+435,217,401.9,Unspecified essential hypertension
+436,218,414.01,Coronary atherosclerosis
+437,218,272.4,Other and unspecified hyperlipidemia
+438,218,428.0,Congestive heart failure
+439,219,401.9,Unspecified essential hypertension
+440,219,584.9,Acute kidney failure
+441,220,401.9,Unspecified essential hypertension
+442,221,244.9,Unspecified hypothyroidism
+443,221,244.9,Unspecified hypothyroidism
+444,222,414.01,Coronary atherosclerosis
+445,223,428.0,Congestive heart failure
+446,223,250.00,Diabetes mellitus without mention of complication
+447,223,518.81,Acute respiratory failure
+448,224,518.81,Acute respiratory failure
+449,224,250.00,Diabetes mellitus without mention of complication
+450,224,272.4,Other and unspecified hyperlipidemia
+451,225,250.00,Diabetes mellitus without mention of complication
+452,226,518.81,Acute respiratory failure
+453,227,250.00,Diabetes mellitus without mention of complication
+454,227,414.01,Coronary atherosclerosis
+455,227,486,Pneumonia
+456,228,244.9,Unspecified hypothyroidism
+457,228,584.9,Acute kidney failure
+458,229,530.81,Esophageal reflux
+459,230,530.81,Esophageal reflux
+460,230,584.9,Acute kidney failure
+461,230,428.0,Congestive heart failure
+462,231,250.00,Diabetes mellitus without mention of complication
+463,232,428.0,Congestive heart failure
+464,232,401.9,Unspecified essential hypertension
+465,232,414.01,Coronary atherosclerosis
+466,233,518.81,Acute respiratory failure
+467,233,518.81,Acute respiratory failure
+468,233,272.4,Other and unspecified hyperlipidemia
+469,234,272.4,Other and unspecified hyperlipidemia
+470,234,518.81,Acute respiratory failure
+471,235,584.9,Acute kidney failure
+472,235,244.9,Unspecified hypothyroidism
+473,235,250.00,Diabetes mellitus without mention of complication
+474,236,250.00,Diabetes mellitus without mention of complication
+475,236,584.9,Acute kidney failure
+476,236,584.9,Acute kidney failure
+477,237,272.4,Other and unspecified hyperlipidemia
+478,238,530.81,Esophageal reflux
+479,239,518.81,Acute respiratory failure
+480,240,250.00,Diabetes mellitus without mention of complication
+481,240,530.81,Esophageal reflux
+482,241,584.9,Acute kidney failure
+483,241,272.4,Other and unspecified hyperlipidemia
+484,241,530.81,Esophageal reflux
+485,242,518.81,Acute respiratory failure
+486,242,272.4,Other and unspecified hyperlipidemia
+487,243,250.00,Diabetes mellitus without mention of complication
+488,243,272.4,Other and unspecified hyperlipidemia
+489,244,530.81,Esophageal reflux
+490,244,518.81,Acute respiratory failure
+491,244,414.01,Coronary atherosclerosis
+492,245,518.81,Acute respiratory failure
+493,245,244.9,Unspecified hypothyroidism
+494,245,244.9,Unspecified hypothyroidism
+495,246,428.0,Congestive heart failure
+496,247,244.9,Unspecified hypothyroidism
+497,247,486,Pneumonia
+498,248,401.9,Unspecified essential hypertension
+499,249,530.81,Esophageal reflux
+500,250,584.9,Acute kidney failure
+501,250,584.9,Acute kidney failure
+502,251,244.9,Unspecified hypothyroidism
+503,252,518.81,Acute respiratory failure
+504,253,584.9,Acute kidney failure
+505,253,428.0,Congestive heart failure
+506,254,244.9,Unspecified hypothyroidism
+507,254,486,Pneumonia
+508,255,428.0,Congestive heart failure
+509,256,250.00,Diabetes mellitus without mention of complication
+510,256,530.81,Esophageal reflux
+511,256,414.01,Coronary atherosclerosis
+512,257,584.9,Acute kidney failure
+513,257,584.9,Acute kidney failure
+514,257,486,Pneumonia
+515,258,250.00,Diabetes mellitus without mention of complication
+516,258,530.81,Esophageal reflux
+517,259,486,Pneumonia
+518,260,272.4,Other and unspecified hyperlipidemia
+519,260,584.9,Acute kidney failure
+520,261,250.00,Diabetes mellitus without mention of complication
+521,261,584.9,Acute kidney failure
+522,262,518.81,Acute respiratory failure
+523,263,584.9,Acute kidney failure
+524,263,428.0,Congestive heart failure
+525,264,414.01,Coronary atherosclerosis
+526,265,414.01,Coronary atherosclerosis
+527,266,244.9,Unspecified hypothyroidism
+528,267,518.81,Acute respiratory failure
+529,267,530.81,Esophageal reflux
+530,267,584.9,Acute kidney failure
+531,268,530.81,Esophageal reflux
+532,269,584.9,Acute kidney failure
+533,269,272.4,Other and unspecified hyperlipidemia
+534,270,272.4,Other and unspecified hyperlipidemia
+535,271,401.9,Unspecified essential hypertension
+536,272,486,Pneumonia
+537,273,518.81,Acute respiratory failure
+538,273,272.4,Other and unspecified hyperlipidemia
+539,274,414.01,Coronary atherosclerosis
+540,274,584.9,Acute kidney failure
+541,275,530.81,Esophageal reflux
+542,275,401.9,Unspecified essential hypertension
+543,276,584.9,Acute kidney failure
+544,277,428.0,Congestive heart failure
+545,277,250.00,Diabetes mellitus without mention of complication
+546,277,401.9,Unspecified essential hypertension
+547,278,584.9,Acute kidney failure
+548,278,584.9,Acute kidney failure
+549,279,518.81,Acute respiratory failure
+550,279,414.01,Coronary atherosclerosis
+551,279,250.00,Diabetes mellitus without mention of complication
+552,280,486,Pneumonia
+553,280,401.9,Unspecified essential hypertension
+554,280,272.4,Other and unspecified hyperlipidemia
+555,281,518.81,Acute respiratory failure
+556,281,428.0,Congestive heart failure
+557,281,486,Pneumonia
+558,282,272.4,Other and unspecified hyperlipidemia
+559,283,530.81,Esophageal reflux
+560,283,401.9,Unspecified essential hypertension
+561,283,584.9,Acute kidney failure
+562,284,414.01,Coronary atherosclerosis
+563,284,428.0,Congestive heart failure
+564,284,272.4,Other and unspecified hyperlipidemia
+565,285,414.01,Coronary atherosclerosis
+566,285,272.4,Other and unspecified hyperlipidemia
+567,285,428.0,Congestive heart failure
+568,286,250.00,Diabetes mellitus without mention of complication
+569,286,250.00,Diabetes mellitus without mention of complication
+570,287,518.81,Acute respiratory failure
+571,288,584.9,Acute kidney failure
+572,288,272.4,Other and unspecified hyperlipidemia
+573,289,250.00,Diabetes mellitus without mention of complication
+574,289,486,Pneumonia
+575,290,518.81,Acute respiratory failure
+576,291,428.0,Congestive heart failure
+577,292,530.81,Esophageal reflux
+578,292,428.0,Congestive heart failure
+579,293,244.9,Unspecified hypothyroidism
+580,294,401.9,Unspecified essential hypertension
+581,295,428.0,Congestive heart failure
+582,296,518.81,Acute respiratory failure
+583,296,518.81,Acute respiratory failure
+584,297,244.9,Unspecified hypothyroidism
+585,297,584.9,Acute kidney failure
+586,298,414.01,Coronary atherosclerosis
+587,298,428.0,Congestive heart failure
+588,299,272.4,Other and unspecified hyperlipidemia
+589,299,414.01,Coronary atherosclerosis
+590,299,244.9,Unspecified hypothyroidism
+591,300,584.9,Acute kidney failure
+592,301,530.81,Esophageal reflux
+593,301,414.01,Coronary atherosclerosis
+594,302,401.9,Unspecified essential hypertension
+595,303,272.4,Other and unspecified hyperlipidemia
+596,303,244.9,Unspecified hypothyroidism
+597,304,530.81,Esophageal reflux
+598,304,250.00,Diabetes mellitus without mention of complication
+599,305,486,Pneumonia
+600,306,428.0,Congestive heart failure
+601,307,414.01,Coronary atherosclerosis
+602,307,530.81,Esophageal reflux
+603,308,518.81,Acute respiratory failure
+604,309,244.9,Unspecified hypothyroidism
+605,309,401.9,Unspecified essential hypertension
+606,310,272.4,Other and unspecified hyperlipidemia
+607,310,401.9,Unspecified essential hypertension
+608,310,414.01,Coronary atherosclerosis
+609,311,530.81,Esophageal reflux
+610,311,518.81,Acute respiratory failure
+611,312,401.9,Unspecified essential hypertension
+612,312,486,Pneumonia
+613,312,486,Pneumonia
+614,313,401.9,Unspecified essential hypertension
+615,313,518.81,Acute respiratory failure
+616,313,428.0,Congestive heart failure
+617,314,250.00,Diabetes mellitus without mention of complication
+618,314,401.9,Unspecified essential hypertension
+619,315,414.01,Coronary atherosclerosis
+620,315,584.9,Acute kidney failure
+621,316,401.9,Unspecified essential hypertension
+622,316,530.81,Esophageal reflux
+623,316,486,Pneumonia
+624,317,584.9,Acute kidney failure
+625,317,486,Pneumonia
+626,317,244.9,Unspecified hypothyroidism
+627,318,428.0,Congestive heart failure
+628,318,414.01,Coronary atherosclerosis
+629,318,414.01,Coronary atherosclerosis
+630,319,518.81,Acute respiratory failure
+631,320,244.9,Unspecified hypothyroidism
+632,320,401.9,Unspecified essential hypertension
+633,321,401.9,Unspecified essential hypertension
+634,321,401.9,Unspecified essential hypertension
+635,322,250.00,Diabetes mellitus without mention of complication
+636,322,428.0,Congestive heart failure
+637,322,518.81,Acute respiratory failure
+638,323,401.9,Unspecified essential hypertension
+639,324,414.01,Coronary atherosclerosis
+640,325,428.0,Congestive heart failure
+641,325,414.01,Coronary atherosclerosis
+642,325,250.00,Diabetes mellitus without mention of complication
+643,326,530.81,Esophageal reflux
+644,326,530.81,Esophageal reflux
+645,327,244.9,Unspecified hypothyroidism
+646,327,250.00,Diabetes mellitus without mention of complication
+647,327,428.0,Congestive heart failure
+648,328,250.00,Diabetes mellitus without mention of complication
+649,328,272.4,Other and unspecified hyperlipidemia
+650,328,414.01,Coronary atherosclerosis
+651,329,401.9,Unspecified essential hypertension
+652,330,530.81,Esophageal reflux
+653,331,272.4,Other and unspecified hyperlipidemia
+654,331,401.9,Unspecified essential hypertension
+655,331,428.0,Congestive heart failure
+656,332,486,Pneumonia
+657,332,428.0,Congestive heart failure
+658,332,584.9,Acute kidney failure
+659,333,530.81,Esophageal reflux
+660,333,414.01,Coronary atherosclerosis
+661,334,518.81,Acute respiratory failure
+662,334,414.01,Coronary atherosclerosis
+663,335,414.01,Coronary atherosclerosis
+664,335,401.9,Unspecified essential hypertension
+665,336,244.9,Unspecified hypothyroidism
+666,336,530.81,Esophageal reflux
+667,336,244.9,Unspecified hypothyroidism
+668,337,530.81,Esophageal reflux
+669,337,486,Pneumonia
+670,338,414.01,Coronary atherosclerosis
+671,338,272.4,Other and unspecified hyperlipidemia
+672,338,414.01,Coronary atherosclerosis
+673,339,250.00,Diabetes mellitus without mention of complication
+674,339,486,Pneumonia
+675,340,272.4,Other and unspecified hyperlipidemia
+676,340,272.4,Other and unspecified hyperlipidemia
+677,341,584.9,Acute kidney failure
+678,341,244.9,Unspecified hypothyroidism
+679,341,401.9,Unspecified essential hypertension
+680,342,518.81,Acute respiratory failure
+681,342,272.4,Other and unspecified hyperlipidemia
+682,343,414.01,Coronary atherosclerosis
+683,344,518.81,Acute respiratory failure
+684,344,428.0,Congestive heart failure
+685,345,244.9,Unspecified hypothyroidism
+686,346,244.9,Unspecified hypothyroidism
+687,346,250.00,Diabetes mellitus without mention of complication
+688,346,584.9,Acute kidney failure
+689,347,244.9,Unspecified hypothyroidism
+690,347,414.01,Coronary atherosclerosis
+691,348,414.01,Coronary atherosclerosis
+692,348,428.0,Congestive heart failure
+693,349,244.9,Unspecified hypothyroidism
+694,349,250.00,Diabetes mellitus without mention of complication
+695,349,401.9,Unspecified essential hypertension
+696,350,401.9,Unspecified essential hypertension
+697,351,414.01,Coronary atherosclerosis
+698,351,584.9,Acute kidney failure
+699,352,250.00,Diabetes mellitus without mention of complication
+700,352,244.9,Unspecified hypothyroidism
+701,352,401.9,Unspecified essential hypertension
+702,353,518.81,Acute respiratory failure
+703,353,428.0,Congestive heart failure
+704,354,518.81,Acute respiratory failure
+705,354,244.9,Unspecified hypothyroidism
+706,354,584.9,Acute kidney failure
+707,355,244.9,Unspecified hypothyroidism
+708,355,518.81,Acute respiratory failure
+709,356,244.9,Unspecified hypothyroidism
+710,356,250.00,Diabetes mellitus without mention of complication
+711,356,414.01,Coronary atherosclerosis
+712,357,518.81,Acute respiratory failure
+713,358,244.9,Unspecified hypothyroidism
+714,358,250.00,Diabetes mellitus without mention of complication
+715,358,414.01,Coronary atherosclerosis
+716,359,414.01,Coronary atherosclerosis
+717,359,250.00,Diabetes mellitus without mention of complication
+718,359,518.81,Acute respiratory failure
+719,360,530.81,Esophageal reflux
+720,360,530.81,Esophageal reflux
+721,360,244.9,Unspecified hypothyroidism
+722,361,401.9,Unspecified essential hypertension
+723,361,244.9,Unspecified hypothyroidism
+724,361,518.81,Acute respiratory failure
+725,362,401.9,Unspecified essential hypertension
+726,362,428.0,Congestive heart failure
+727,363,272.4,Other and unspecified hyperlipidemia
+728,363,486,Pneumonia
+729,363,518.81,Acute respiratory failure
+730,364,486,Pneumonia
+731,364,518.81,Acute respiratory failure
+732,364,530.81,Esophageal reflux
+733,365,401.9,Unspecified essential hypertension
+734,366,486,Pneumonia
+735,366,272.4,Other and unspecified hyperlipidemia
+736,366,486,Pneumonia
+737,367,518.81,Acute respiratory failure
+738,367,414.01,Coronary atherosclerosis
+739,367,428.0,Congestive heart failure
+740,368,518.81,Acute respiratory failure
+741,368,244.9,Unspecified hypothyroidism
+742,369,401.9,Unspecified essential hypertension
+743,370,401.9,Unspecified essential hypertension
+744,371,244.9,Unspecified hypothyroidism
+745,371,584.9,Acute kidney failure
+746,372,414.01,Coronary atherosclerosis
+747,372,272.4,Other and unspecified hyperlipidemia
+748,373,486,Pneumonia
+749,373,428.0,Congestive heart failure
+750,373,584.9,Acute kidney failure
+751,374,250.00,Diabetes mellitus without mention of complication
+752,374,414.01,Coronary atherosclerosis
+753,375,401.9,Unspecified essential hypertension
+754,375,244.9,Unspecified hypothyroidism
+755,376,428.0,Congestive heart failure
+756,376,272.4,Other and unspecified hyperlipidemia
+757,377,244.9,Unspecified hypothyroidism
+758,377,401.9,Unspecified essential hypertension
+759,377,414.01,Coronary atherosclerosis
+760,378,414.01,Coronary atherosclerosis
+761,378,414.01,Coronary atherosclerosis
+762,379,584.9,Acute kidney failure
+763,379,584.9,Acute kidney failure
+764,379,244.9,Unspecified hypothyroidism
+765,380,486,Pneumonia
+766,381,530.81,Esophageal reflux
+767,382,414.01,Coronary atherosclerosis
+768,382,414.01,Coronary atherosclerosis
+769,382,401.9,Unspecified essential hypertension
+770,383,401.9,Unspecified essential hypertension
+771,383,584.9,Acute kidney failure
+772,384,401.9,Unspecified essential hypertension
+773,384,584.9,Acute kidney failure
+774,384,518.81,Acute respiratory failure
+775,385,250.00,Diabetes mellitus without mention of complication
+776,386,486,Pneumonia
+777,386,250.00,Diabetes mellitus without mention of complication
+778,386,401.9,Unspecified essential hypertension
+779,387,486,Pneumonia
+780,387,584.9,Acute kidney failure
+781,388,401.9,Unspecified essential hypertension
+782,388,584.9,Acute kidney failure
+783,389,244.9,Unspecified hypothyroidism
+784,389,272.4,Other and unspecified hyperlipidemia
+785,390,584.9,Acute kidney failure
+786,391,530.81,Esophageal reflux
+787,391,584.9,Acute kidney failure
+788,392,428.0,Congestive heart failure
+789,392,401.9,Unspecified essential hypertension
+790,393,486,Pneumonia
+791,393,250.00,Diabetes mellitus without mention of complication
+792,394,584.9,Acute kidney failure
+793,394,518.81,Acute respiratory failure
+794,394,414.01,Coronary atherosclerosis
+795,395,250.00,Diabetes mellitus without mention of complication
+796,395,414.01,Coronary atherosclerosis
+797,396,244.9,Unspecified hypothyroidism
+798,396,414.01,Coronary atherosclerosis
+799,396,518.81,Acute respiratory failure
+800,397,250.00,Diabetes mellitus without mention of complication
+801,397,250.00,Diabetes mellitus without mention of complication
+802,397,518.81,Acute respiratory failure
+803,398,486,Pneumonia
+804,398,250.00,Diabetes mellitus without mention of complication
+805,398,530.81,Esophageal reflux
+806,399,244.9,Unspecified hypothyroidism
+807,400,401.9,Unspecified essential hypertension
+808,401,401.9,Unspecified essential hypertension
+809,401,530.81,Esophageal reflux
+810,401,414.01,Coronary atherosclerosis
+811,402,401.9,Unspecified essential hypertension
+812,402,530.81,Esophageal reflux
+813,402,486,Pneumonia
+814,403,414.01,Coronary atherosclerosis
+815,404,530.81,Esophageal reflux
+816,404,272.4,Other and unspecified hyperlipidemia
+817,404,401.9,Unspecified essential hypertension
+818,405,250.00,Diabetes mellitus without mention of complication
+819,405,518.81,Acute respiratory failure
+820,406,486,Pneumonia
+821,407,401.9,Unspecified essential hypertension
+822,407,530.81,Esophageal reflux
+823,407,428.0,Congestive heart failure
+824,408,244.9,Unspecified hypothyroidism
+825,408,272.4,Other and unspecified hyperlipidemia
+826,408,518.81,Acute respiratory failure
+827,409,401.9,Unspecified essential hypertension
+828,409,486,Pneumonia
+829,409,530.81,Esophageal reflux
+830,410,584.9,Acute kidney failure
+831,411,401.9,Unspecified essential hypertension
+832,411,401.9,Unspecified essential hypertension
+833,411,244.9,Unspecified hypothyroidism
+834,412,428.0,Congestive heart failure
+835,412,244.9,Unspecified hypothyroidism
+836,413,584.9,Acute kidney failure
+837,413,250.00,Diabetes mellitus without mention of complication
+838,413,244.9,Unspecified hypothyroidism
+839,414,244.9,Unspecified hypothyroidism
+840,414,250.00,Diabetes mellitus without mention of complication
+841,414,530.81,Esophageal reflux
+842,415,401.9,Unspecified essential hypertension
+843,415,486,Pneumonia
+844,416,530.81,Esophageal reflux
+845,417,428.0,Congestive heart failure
+846,417,530.81,Esophageal reflux
+847,418,428.0,Congestive heart failure
+848,419,486,Pneumonia
+849,419,518.81,Acute respiratory failure
+850,420,414.01,Coronary atherosclerosis
+851,420,272.4,Other and unspecified hyperlipidemia
+852,420,250.00,Diabetes mellitus without mention of complication
+853,421,250.00,Diabetes mellitus without mention of complication
+854,422,272.4,Other and unspecified hyperlipidemia
+855,422,272.4,Other and unspecified hyperlipidemia
+856,423,272.4,Other and unspecified hyperlipidemia
+857,423,244.9,Unspecified hypothyroidism
+858,423,414.01,Coronary atherosclerosis
+859,424,272.4,Other and unspecified hyperlipidemia
+860,425,401.9,Unspecified essential hypertension
+861,425,428.0,Congestive heart failure
+862,426,486,Pneumonia
+863,427,584.9,Acute kidney failure
+864,428,244.9,Unspecified hypothyroidism
+865,428,486,Pneumonia
+866,428,530.81,Esophageal reflux
+867,429,414.01,Coronary atherosclerosis
+868,429,486,Pneumonia
+869,429,414.01,Coronary atherosclerosis
+870,430,428.0,Congestive heart failure
+871,430,401.9,Unspecified essential hypertension
+872,431,486,Pneumonia
+873,432,244.9,Unspecified hypothyroidism
+874,432,244.9,Unspecified hypothyroidism
+875,432,486,Pneumonia
+876,433,530.81,Esophageal reflux
+877,434,486,Pneumonia
+878,434,486,Pneumonia
+879,435,486,Pneumonia
+880,435,530.81,Esophageal reflux
+881,436,428.0,Congestive heart failure
+882,436,272.4,Other and unspecified hyperlipidemia
+883,436,272.4,Other and unspecified hyperlipidemia
+884,437,250.00,Diabetes mellitus without mention of complication
+885,437,486,Pneumonia
+886,437,584.9,Acute kidney failure
+887,438,272.4,Other and unspecified hyperlipidemia
+888,438,428.0,Congestive heart failure
+889,439,428.0,Congestive heart failure
+890,439,584.9,Acute kidney failure
+891,440,401.9,Unspecified essential hypertension
+892,440,244.9,Unspecified hypothyroidism
+893,440,414.01,Coronary atherosclerosis
+894,441,250.00,Diabetes mellitus without mention of complication
+895,442,244.9,Unspecified hypothyroidism
+896,443,272.4,Other and unspecified hyperlipidemia
+897,443,272.4,Other and unspecified hyperlipidemia
+898,443,530.81,Esophageal reflux
+899,444,414.01,Coronary atherosclerosis
+900,445,244.9,Unspecified hypothyroidism
+901,445,244.9,Unspecified hypothyroidism
+902,445,584.9,Acute kidney failure
+903,446,244.9,Unspecified hypothyroidism
+904,446,518.81,Acute respiratory failure
+905,447,401.9,Unspecified essential hypertension
+906,447,428.0,Congestive heart failure
+907,448,250.00,Diabetes mellitus without mention of complication
+908,448,428.0,Congestive heart failure
+909,448,244.9,Unspecified hypothyroidism
+910,449,244.9,Unspecified hypothyroidism
+911,450,272.4,Other and unspecified hyperlipidemia
+912,451,584.9,Acute kidney failure
+913,451,584.9,Acute kidney failure
+914,451,428.0,Congestive heart failure
+915,452,486,Pneumonia
+916,453,530.81,Esophageal reflux
+917,453,250.00,Diabetes mellitus without mention of complication
+918,454,530.81,Esophageal reflux
+919,454,401.9,Unspecified essential hypertension
+920,455,518.81,Acute respiratory failure
+921,455,250.00,Diabetes mellitus without mention of complication
+922,455,584.9,Acute kidney failure
+923,456,518.81,Acute respiratory failure
+924,457,414.01,Coronary atherosclerosis
+925,457,486,Pneumonia
+926,457,518.81,Acute respiratory failure
+927,458,250.00,Diabetes mellitus without mention of complication
+928,458,272.4,Other and unspecified hyperlipidemia
+929,458,530.81,Esophageal reflux
+930,459,244.9,Unspecified hypothyroidism
+931,460,428.0,Congestive heart failure
+932,460,584.9,Acute kidney failure
+933,460,414.01,Coronary atherosclerosis
+934,461,401.9,Unspecified essential hypertension
+935,462,518.81,Acute respiratory failure
+936,462,401.9,Unspecified essential hypertension
+937,462,272.4,Other and unspecified hyperlipidemia
+938,463,428.0,Congestive heart failure
+939,464,401.9,Unspecified essential hypertension
+940,464,428.0,Congestive heart failure
+941,464,272.4,Other and unspecified hyperlipidemia
+942,465,486,Pneumonia
+943,466,272.4,Other and unspecified hyperlipidemia
+944,466,272.4,Other and unspecified hyperlipidemia
+945,467,518.81,Acute respiratory failure
+946,467,244.9,Unspecified hypothyroidism
+947,468,244.9,Unspecified hypothyroidism
+948,469,244.9,Unspecified hypothyroidism
+949,469,530.81,Esophageal reflux
+950,469,530.81,Esophageal reflux
+951,470,401.9,Unspecified essential hypertension
+952,470,428.0,Congestive heart failure
+953,471,272.4,Other and unspecified hyperlipidemia
+954,471,250.00,Diabetes mellitus without mention of complication
+955,472,414.01,Coronary atherosclerosis
+956,473,244.9,Unspecified hypothyroidism
+957,473,584.9,Acute kidney failure
+958,474,518.81,Acute respiratory failure
+959,475,518.81,Acute respiratory failure
+960,475,530.81,Esophageal reflux
+961,475,530.81,Esophageal reflux
+962,476,414.01,Coronary atherosclerosis
+963,476,584.9,Acute kidney failure
+964,477,530.81,Esophageal reflux
+965,478,518.81,Acute respiratory failure
+966,478,486,Pneumonia
+967,479,401.9,Unspecified essential hypertension
+968,479,584.9,Acute kidney failure
+969,479,530.81,Esophageal reflux
+970,480,401.9,Unspecified essential hypertension
+971,480,584.9,Acute kidney failure
+972,480,272.4,Other and unspecified hyperlipidemia
+973,481,272.4,Other and unspecified hyperlipidemia
+974,481,401.9,Unspecified essential hypertension
+975,482,244.9,Unspecified hypothyroidism
+976,482,584.9,Acute kidney failure
+977,482,250.00,Diabetes mellitus without mention of complication
+978,483,401.9,Unspecified essential hypertension
+979,484,428.0,Congestive heart failure
+980,485,428.0,Congestive heart failure
+981,485,414.01,Coronary atherosclerosis
+982,486,584.9,Acute kidney failure
+983,487,401.9,Unspecified essential hypertension
+984,487,486,Pneumonia
+985,487,530.81,Esophageal reflux
+986,488,401.9,Unspecified essential hypertension
+987,489,486,Pneumonia
+988,489,244.9,Unspecified hypothyroidism
+989,489,486,Pneumonia
+990,490,428.0,Congestive heart failure
+991,490,272.4,Other and unspecified hyperlipidemia
+992,490,518.81,Acute respiratory failure
+993,491,244.9,Unspecified hypothyroidism
+994,492,414.01,Coronary atherosclerosis
+995,493,414.01,Coronary atherosclerosis
+996,493,428.0,Congestive heart failure
+997,494,486,Pneumonia
+998,494,244.9,Unspecified hypothyroidism
+999,495,584.9,Acute kidney failure
+1000,495,428.0,Congestive heart failure
+1001,495,250.00,Diabetes mellitus without mention of complication
+1002,496,530.81,Esophageal reflux
+1003,497,530.81,Esophageal reflux
+1004,497,530.81,Esophageal reflux
+1005,498,250.00,Diabetes mellitus without mention of complication
+1006,498,428.0,Congestive heart failure
+1007,499,486,Pneumonia
+1008,499,584.9,Acute kidney failure
+1009,500,530.81,Esophageal reflux
+1010,500,428.0,Congestive heart failure

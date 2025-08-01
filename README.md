@@ -18,19 +18,19 @@ This project implements a full pipeline—from data ingestion and analysis to pr
 
 - 🔗 **Live Streamlit App**: [Click to open](https://healthcare-readmission-analysis-rmuajo4ghd9n8weauxki7q.streamlit.app/)  
 - 🖼️ **Web App UI Preview**:  
-  ![Web App](./1.png)
+  ![Web App](screenshots/1.png)
 
 - 🖼️ **Dashboard - Overview**  
-  ![Overview](./2.jpg)
+  ![Overview](screenshots/2.jpg)
 
 - 🖼️ **Dashboard - Readmission Drivers**  
-  ![Drivers](./3.jpg)
+  ![Drivers](screenshots/3.jpg)
 
 - 🖼️ **Dashboard - Demographics**  
-  ![Demographics](./4.jpg)
+  ![Demographics](screenshots/4.jpg)
 
 - 🖼️ **Dashboard - Model Insights**  
-  ![Model](./5.jpg)
+  ![Model](screenshots/5.jpg)
 
 ---
 

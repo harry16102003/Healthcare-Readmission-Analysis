@@ -1,8 +1,3 @@
-Here is the **complete `README.md` file** for your project, formatted and ready to use. You can directly copy this content into your `README.md` file in your GitHub repository:
-
----
-
-```markdown
 # 🏥 Healthcare Patient Readmission Analysis
 
 An end-to-end **Data Science and Business Intelligence** project focused on analyzing patient readmission data. This project implements a full pipeline—from **data ingestion** and **analysis** to **predictive modeling** and **interactive visualization**—to deliver actionable insights into healthcare operations.
@@ -31,23 +26,21 @@ The objective is to analyze a healthcare dataset and identify factors contributi
 ## 📂 Project Structure
 
 ```
-
 Healthcare-Readmission-Analysis/
 ├── app/               # Streamlit web app & model file
 │   └── app.py
-│   └── readmission\_model\_xgboost.pkl
+│   └── readmission_model_xgboost.pkl
 ├── dashboard/         # Power BI report file
-│   └── readmission\_dashboard.pbix
+│   └── readmission_dashboard.pbix
 ├── dataset/           # Raw and processed CSV datasets
 ├── model/             # Final trained model
 ├── notebook/          # Jupyter Notebook (EDA, modeling)
-│   └── analysis\_and\_modeling.ipynb
-├── sql\_query/         # SQL scripts for DB setup
-│   └── create\_tables.sql
+│   └── analysis_and_modeling.ipynb
+├── sql_query/         # SQL scripts for DB setup
+│   └── create_tables.sql
 ├── requirements.txt   # Python dependencies
 └── README.md
-
-````
+```
 
 ---
 
@@ -63,16 +56,14 @@ Healthcare-Readmission-Analysis/
 - Install required dependencies using:
   ```bash
   pip install -r requirements.txt
-````
+  ```
 
 ### 3️⃣ Run Streamlit App
-
-* Navigate to the `app/` directory and run:
-
+- Navigate to the `app/` directory and run:
   ```bash
   streamlit run app.py
   ```
-* The app will open in your web browser, allowing you to interact with the model.
+- The app will open in your web browser, allowing you to interact with the model.
 
 ---
 
@@ -80,16 +71,15 @@ Healthcare-Readmission-Analysis/
 
 The predictive model is a **tuned XGBoostClassifier** trained to estimate the risk of patient readmission. Key features used:
 
-* **Demographics**: Age, Gender, Ethnicity
-* **Admission Details**: Length of Stay, Admission Type
-* **Discharge Information**: Discharge Disposition (e.g., home, rehab, nursing facility)
+- **Demographics**: Age, Gender, Ethnicity  
+- **Admission Details**: Length of Stay, Admission Type  
+- **Discharge Information**: Discharge Disposition (e.g., home, rehab, nursing facility)
 
 ### 📈 Model Evaluation Metrics:
-
-* **Accuracy**
-* **Precision**
-* **Recall**
-* **F1-Score**
+- **Accuracy**
+- **Precision**
+- **Recall**
+- **F1-Score**
 
 All performance metrics are displayed in the **Power BI dashboard** and used for interpreting the model’s effectiveness.
 
@@ -98,11 +88,10 @@ All performance metrics are displayed in the **Power BI dashboard** and used for
 ## 📊 Power BI Dashboard
 
 An interactive Power BI dashboard has been created to provide business insights. It includes:
-
-* Readmission KPIs
-* Filters by patient demographics and discharge types
-* Visualizations for high-risk segments
-* Model performance metrics and decision-support charts
+- Readmission KPIs
+- Filters by patient demographics and discharge types
+- Visualizations for high-risk segments
+- Model performance metrics and decision-support charts
 
 ---
 
@@ -112,11 +101,11 @@ Hi! I’m **Harsh Bandal**, a final-year Computer Engineering student at **Sinhg
 
 I love exploring the full lifecycle of data science projects—from raw datasets to beautiful dashboards and deployable apps. My mission is to bridge the gap between raw data and practical decision-making tools.
 
-* 🔗 **GitHub**: [harry16102003](https://github.com/harry16102003)
-* 🔗 **LinkedIn**: [Harsh Bandal](https://www.linkedin.com/in/harsh-bandal-3240912b7/)
-* 📫 **Email**: [harshbandal.scoe.comp@gmail.com](mailto:harshbandal.scoe.comp@gmail.com)
+- 🔗 **GitHub**: [harry16102003](https://github.com/harry16102003)  
+- 🔗 **LinkedIn**: [Harsh Bandal](https://www.linkedin.com/in/harsh-bandal-3240912b7/)  
+- 📫 **Email**: harshbandal.scoe.comp@gmail.com  
 
-> *“Turning data into decisions, and models into impact.”*
+> _“Turning data into decisions, and models into impact.”_
 
 ---
 
@@ -129,16 +118,3 @@ To demonstrate a complete end-to-end data science workflow using industry-standa
 ## 📌 License
 
 This project is licensed under the **MIT License** — feel free to fork, use, and adapt it for learning, portfolios, or similar problem domains.
-
-```
-
----
-
-Let me know if you want:
-- A `requirements.txt` generated
-- Help uploading and organizing files on GitHub
-- A professional thumbnail or banner image for the repository
-- A one-line LinkedIn project summary or post caption
-
-Want me to save this in a `.md` file and share it with you?
-```
